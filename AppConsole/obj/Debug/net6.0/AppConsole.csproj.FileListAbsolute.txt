@@ -1,0 +1,15 @@
+C:\Users\Matth\Desktop\cshap\AppConsole\AppConsole\bin\Debug\net6.0\AppConsole.exe
+C:\Users\Matth\Desktop\cshap\AppConsole\AppConsole\bin\Debug\net6.0\AppConsole.deps.json
+C:\Users\Matth\Desktop\cshap\AppConsole\AppConsole\bin\Debug\net6.0\AppConsole.runtimeconfig.json
+C:\Users\Matth\Desktop\cshap\AppConsole\AppConsole\bin\Debug\net6.0\AppConsole.dll
+C:\Users\Matth\Desktop\cshap\AppConsole\AppConsole\bin\Debug\net6.0\AppConsole.pdb
+C:\Users\Matth\Desktop\cshap\AppConsole\AppConsole\obj\Debug\net6.0\AppConsole.csproj.AssemblyReference.cache
+C:\Users\Matth\Desktop\cshap\AppConsole\AppConsole\obj\Debug\net6.0\AppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matth\Desktop\cshap\AppConsole\AppConsole\obj\Debug\net6.0\AppConsole.AssemblyInfoInputs.cache
+C:\Users\Matth\Desktop\cshap\AppConsole\AppConsole\obj\Debug\net6.0\AppConsole.AssemblyInfo.cs
+C:\Users\Matth\Desktop\cshap\AppConsole\AppConsole\obj\Debug\net6.0\AppConsole.csproj.CoreCompileInputs.cache
+C:\Users\Matth\Desktop\cshap\AppConsole\AppConsole\obj\Debug\net6.0\AppConsole.dll
+C:\Users\Matth\Desktop\cshap\AppConsole\AppConsole\obj\Debug\net6.0\refint\AppConsole.dll
+C:\Users\Matth\Desktop\cshap\AppConsole\AppConsole\obj\Debug\net6.0\AppConsole.pdb
+C:\Users\Matth\Desktop\cshap\AppConsole\AppConsole\obj\Debug\net6.0\AppConsole.genruntimeconfig.cache
+C:\Users\Matth\Desktop\cshap\AppConsole\AppConsole\obj\Debug\net6.0\ref\AppConsole.dll
